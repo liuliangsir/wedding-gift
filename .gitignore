@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+node_modules
+.vscode
+*.iml
+.svn
+1/*
