@@ -1,4 +1,7 @@
 # wedding-gift
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/liuliangsir/wedding-gift.svg)](https://greenkeeper.io/)
+
 <table>
         <tr>
             <th>设备</th>
